@@ -1,0 +1,22 @@
+Package: BenGood
+Type: Package
+Title: Assessing Goodness-of-Fit of Data to Benford's Law
+Version: 0.0.0.900
+Author: Mary Lesperance [aut, cre],
+  Carolyn Tsao [ctb],
+  Bree Wilton [ctb],
+  Stanley Wong [ctb]
+Maintainer: Mary Lesperance <mlespera@uvic.ca>
+Description: This package provides easy-to-use tools for generating 
+  simultaneous confidence intervals, running likelihood ratio tests and 
+  running power tests to aid in assessing the conformance of your dataset 
+  to Benford's Law.
+Imports: mgcv,
+          MASS
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
