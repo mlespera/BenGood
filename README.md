@@ -1,4 +1,6 @@
 # BenGood
-R package for testing goodness-of-fit of Benford's Law for first digits
+R package for testing goodness-of-fit of Benford's Law for first digits.  To install from GitHub, first
 
-    Install from GitHub :  devtools::install_github("mlespera/BenGood", buildvignettes = TRUE)
+    install.packages("devtools")
+
+    devtools::install_github("mlespera/BenGood", buildvignettes = TRUE)
