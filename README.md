@@ -3,4 +3,4 @@ R package for testing goodness-of-fit of Benford's Law for first digits.  To ins
 
     install.packages("devtools")
 
-    devtools::install_github("mlespera/BenGood", buildvignettes = TRUE)
+    devtools::install_github("mlespera/BenGood")
