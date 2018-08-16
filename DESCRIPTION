@@ -2,6 +2,7 @@ Package: BenGood
 Type: Package
 Title: Assessing Goodness-of-Fit of Data to Benford's Law
 Version: 0.0.0.900
+Date:  2018-08-16 
 Author: Mary Lesperance [aut, cre],
   Carolyn Tsao [ctb],
   Bree Wilton [ctb],
